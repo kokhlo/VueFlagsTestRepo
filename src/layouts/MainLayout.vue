@@ -13,7 +13,7 @@
         />
 
         <q-toolbar-title>
-          Country flag test
+          Country flag test <flag squared iso="ru" />
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>

@@ -22,6 +22,7 @@ module.exports = function (/* ctx */) {
     // https://quasar.dev/quasar-cli/boot-files
     boot: [
       'country-flags',
+      'flag-icons',
     ],
 
     // https://quasar.dev/quasar-cli/quasar-conf-js#Property%3A-css
